@@ -24,7 +24,8 @@ Day-to-day I work with BigQuery, Apache Airflow, MySQL, and Python, testing data
 - ISTQB Certified Tester Foundation Level v4.0
 - MCSA Micorsoft certified Professional
 - Google Advanced Data Analytics
-- 
+- Certified AI-Native Foundations Professional
+  
 ## 🔗 Connect
 
 - LinkedIn: [www.linkedin.com/in/mzwandile-mulovhedzi-12a838103]
