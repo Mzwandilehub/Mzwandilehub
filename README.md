@@ -17,7 +17,7 @@ Day-to-day I work with BigQuery, Apache Airflow, MySQL, and Python, testing data
 
 **[istqb-ctfl-mock-exams](https://github.com/Mzwandilehub/istqb-ctfl-mock-exams)** — Interactive HTML mock exam suite for ISTQB CTFL v4.0 (Sets A–D). 60-minute timer, per-chapter performance breakdown, and a wrong-answer tracker with localStorage persistence.
 
-**[csv-quality-checker](https://github.com/Mzwandilehub/csv-quality-checker)** — Jupyter-based utility for CSV data quality validation: BOM detection, encoding checks, duplicate/null detection, and schema verification.
+**[csv-quality-checker](https://github.com/Mzwandilehub/csv-file-checker)** — Jupyter-based utility for CSV data quality validation: BOM detection, encoding checks, duplicate/null detection, and schema verification.
 
 ## 📜 Certifications
 
