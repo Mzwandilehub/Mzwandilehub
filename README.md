@@ -17,6 +17,8 @@ Day-to-day I work with BigQuery, Apache Airflow, MySQL, and Python, testing data
 
 **[csv-quality-checker](https://github.com/Mzwandilehub/csv-file-checker)** — Jupyter-based utility for CSV data quality validation: BOM detection, encoding checks, duplicate/null detection, and schema verification.
 
+**[Data reconciliation auditor SQL + BQ QA](https://github.com/Mzwandilehub/Data-reconciliation-auditor-)** — QA-built field-level reconciliation auditor that catches silent ETL drift between a MySQL source and a BigQuery warehouse — fingerprinting every row to surface the changed, dropped, and orphaned records that row counts miss.
+
 ## 📜 Certifications
 
 - ISTQB Certified Tester Foundation Level v4.0
